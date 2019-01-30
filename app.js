@@ -156,3 +156,10 @@
         // Book remove sucess message
         UI.showAlert('Book Successfully Deleted','success');
     });
+
+
+
+
+
+
+
